@@ -1,0 +1,68 @@
+[
+  {
+    "id": 1,
+    "nom": "jojorapida",
+    "typeCuisine": "haitiene",
+    "tempsLivraison": "2024-09-19T01:28:51.694Z"
+  },
+  {
+    "id": 2,
+    "nom": "jojorapida",
+    "typeCuisine": "haitiene",
+    "tempsLivraison": "2024-09-19T01:28:54.491Z"
+  },
+  {
+    "id": 3,
+    "nom": "jojorapida",
+    "typeCuisine": "haitiene",
+    "tempsLivraison": "2024-09-19T01:28:56.048Z"
+  },
+  {
+    "id": 4,
+    "nom": "jojorapida",
+    "typeCuisine": "haitiene",
+    "tempsLivraison": "2024-09-19T01:30:04.528Z"
+  },
+  {
+    "id": 5,
+    "nom": "jojorapida",
+    "typeCuisine": "haitiene",
+    "tempsLivraison": "2024-09-19T01:30:06.284Z"
+  },
+  {
+    "id": 6,
+    "nom": "jojorapida",
+    "typeCuisine": "haitiene",
+    "tempsLivraison": "2024-09-19T01:31:45.035Z"
+  },
+  {
+    "id": 7,
+    "nom": "jojorapida",
+    "typeCuisine": "haitiene",
+    "tempsLivraison": "2024-09-19T01:31:46.234Z"
+  },
+  {
+    "id": 8,
+    "nom": "jojorapida",
+    "typeCuisine": "haitiene",
+    "tempsLivraison": "2024-09-19T02:00:35.372Z"
+  },
+  {
+    "id": 9,
+    "nom": "jojorapida",
+    "typeCuisine": "haitiene",
+    "tempsLivraison": "2024-09-19T02:00:36.118Z"
+  },
+  {
+    "id": 11,
+    "nom": "jojorapida",
+    "typeCuisine": "haitiene",
+    "tempsLivraison": "2024-09-19T02:00:37.533Z"
+  },
+  {
+    "id": 12,
+    "nom": "jojorapida",
+    "typeCuisine": "haitiene",
+    "tempsLivraison": "2024-09-19T02:00:38.278Z"
+  }
+]
